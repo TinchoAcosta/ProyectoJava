@@ -15,7 +15,8 @@ public class ProyectoJava {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        clase nuevaclase = new nuevaclase();
+        nuevaclase clase = new nuevaclase();
+        System.out.println("");
     }
 
 }
